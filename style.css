@@ -1,0 +1,214 @@
+.back-img{
+    background-image: url(http://www.developpeur-web-freelance.com/assets/bg-slide.png);
+    background-size: cover;
+
+ }
+
+ 
+
+nav{
+     position: fixed !important;
+     top: 0;
+     left: 0;
+     right: 0;
+     z-index: 2;
+    
+
+
+}
+
+.nav-link:active{
+    color: red !important;
+
+}
+.top-header{
+    background-color: rgba(0, 0, 0, 0.527);
+    text-align: center;
+    
+    color: white;
+    font-family: 'bad script';
+    font-size: 30px;
+    width: 50%;
+    margin: auto;
+    margin-top: 40px;
+     padding: 15px;
+     border-radius: 15px;
+
+}
+
+.presentation{
+    background-color: rgba(0, 0, 0, 0.527);
+    text-align: center;
+    margin: 50px auto;
+    color: white;
+    font-family: 'bad script';
+    font-size: 30px;
+
+    margin-top: 15em;
+     padding: 15px;
+     border-radius: 15px;
+}
+
+.fa-graduation-cap{
+    color: blueviolet;
+    font-size: 80px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.fa-heart{
+    color: red;
+    font-size: 80px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.fa-check-circle{
+    color: aqua;
+    font-size: 80px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+ 
+
+.link{
+   color:red; 
+   text-decoration: none;
+}
+.link:hover{
+    color:red; 
+    text-decoration: none;
+ }
+ b{
+     color: aqua;
+ }
+ .info-pres{
+     text-align: left;
+ }
+
+ .box-parcours{
+     margin: 50px auto;
+     width: 60%;
+     padding: 25px;
+    background-color: rgba(0, 0, 0, 0.527);
+    text-align: center;
+     border-radius: 10px;
+    color: white;
+    font-family: 'bad script';
+    font-size: 30px;
+ }
+ .title-parcours{
+     padding-bottom: 20px;
+     color: white;
+     text-align: center;
+     font-family: 'bad script';
+    font-size: 60px;
+ }
+
+ .date{
+     color: red;
+ }
+
+ .parcours{
+     margin-top: 15em;
+ }
+
+ .disp{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+ }
+
+ .box-competence{
+    padding: 60px;
+   background-color: rgba(0, 0, 0, 0.527);
+   text-align: left;
+   margin-top: 10em; 
+   color: white;
+   font-family: 'bad script';
+   font-size: 30px;
+   
+ }
+
+ .card-box{
+     display: flex;
+     justify-content: space-around;
+     flex-direction: row;
+     margin-top: 25px;
+
+ }
+
+ .card-text{
+     font-size: 20px;
+     text-align: left;
+     color: black;
+ }
+
+ .cv-section{
+    padding: 55px;
+    background-color: rgba(0, 0, 0, 0.527);
+    text-align: left;
+    margin-top: 10em; 
+    color: white;
+    font-family: 'bad script';
+    font-size: 30px;
+     
+ }
+
+ .img-cv{
+    height: 250px;
+    width: 250px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    border-radius: 50%;
+    
+ }
+ .block-cv{
+    padding: 15px;
+    background-color: rgba(92, 60, 61, 0.527);
+    text-align: center;
+    margin-top: 3em; 
+    color: white;
+    font-family: 'bad script';
+    font-size: 30px;
+    width:30%;
+    border-radius: 20px;
+    margin: 30px;
+ }
+
+ .fas{
+     margin-top: 20px ;
+ }
+
+ .colms{
+     border: solid white 2px;
+     width: 50%;
+     margin-top: 20px;
+ }
+
+ .diso-cv{
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     
+ }
+ .form-group{
+     text-align: left !important;
+ }
+ .cpy{
+     margin-top:10em;
+    background-color: rgba(92, 60, 61, 0.527);
+    text-align: center;
+    color: white;
+    font-family: 'bad script';
+ }
+ form{
+     margin: 15px;
+   
+ }
+ 
+
+ 
+
+ 
